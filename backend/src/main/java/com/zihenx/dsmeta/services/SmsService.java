@@ -35,7 +35,7 @@ public class SmsService {
     public void sendSms(Long saleId) {
         Sale sale = saleRepository.findById(saleId).get();
 
-        String msg = String.format(new Locale("pt"),"Vendedor %s visitou %d clientes, vendeu para |%,d| no total de R$%.2f no dia %s/%s/%s", sale.getSellerName(), sale.getVisited(), sale.getDeals(), sale.getAmounth(), sale.getDate().getDayOfMonth(), sale.getDate().getMonthValue(), sale.getDate().getYear());
+        String msg = String.format(new Locale("pt"),"Vendedor %s visitou %d clientes, vendeu para %d no total de R$%.2f no dia %s/%s/%s", sale.getSellerName(), sale.getVisited(), sale.getDeals(), sale.getAmounth(), sale.getDate().getDayOfMonth(), sale.getDate().getMonthValue(), sale.getDate().getYear());
 
         Twilio.init(twilioSid, twilioKey);
 
