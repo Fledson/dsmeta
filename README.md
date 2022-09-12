@@ -7,9 +7,9 @@
 | ![painel](https://github.com/Fledson/dsmeta/blob/main/img/pc.png?raw=true) | ![painel](https://github.com/Fledson/dsmeta/blob/main/img/smatphone.png?raw=true) | ![painel](https://github.com/Fledson/dsmeta/blob/main/img/tablet.png?raw=true) |
 
 
-| GIF   | SMS | 
-|:--------:|:---------:|
-| ![gif](https://github.com/Fledson/dsmeta/blob/main/img/animation.gif?raw=true) | ![gif](https://github.com/Fledson/dsmeta/blob/main/img/animation.gif?raw=true) |
+| GIF   |
+|:--------:|
+| ![gif](https://github.com/Fledson/dsmeta/blob/main/img/animation.gif?raw=true) |
 
 ## 🧑‍💻 Deploy 👩‍💻 
 
