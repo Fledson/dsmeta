@@ -2,6 +2,22 @@
 
 > Aplicação criada em monorepo, usando o JavaScript com ReactJS no frontend e Java com Spring Framework no backend com objetivo de estudo das linguagens da Semana Spring React da [DevSuperior](https://www.instagram.com/p/CiAy1OwOqR-/)
 
+| PC   | Smartphone | tablet   |
+|:--------:|:---------:|:--------:|
+| ![painel](../dsmeta/img/pc.png) | ![painel](../dsmeta/img/smatphone.png) | ![painel](../dsmeta/img/tablet.png) |
+
+<iframe
+    width="640"
+    height="480"
+    src="https://youtu.be/SNNFoViHXxQ"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
+[![IMAGE_ALT](../dsmeta/img/IMG.png)](https://youtu.be/SNNFoViHXxQ)
+
 ## 🧑‍💻 Deploy 👩‍💻 
 
 - [Frontend no netlify](https://dsmeta-fledson.netlify.app/)
