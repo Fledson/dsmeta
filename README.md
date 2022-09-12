@@ -4,19 +4,9 @@
 
 | PC   | Smartphone | tablet   |
 |:--------:|:---------:|:--------:|
-| ![painel](../dsmeta/img/pc.png) | ![painel](../dsmeta/img/smatphone.png) | ![painel](../dsmeta/img/tablet.png) |
+| ![painel](https://github.com/Fledson/dsmeta/blob/main/img/pc.png?raw=true) | ![painel](https://github.com/Fledson/dsmeta/blob/main/img/smatphone.png?raw=true) | ![painel](https://github.com/Fledson/dsmeta/blob/main/img/tablet.png?raw=true) |
 
-<iframe
-    width="640"
-    height="480"
-    src="https://youtu.be/SNNFoViHXxQ"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
-[![IMAGE_ALT](../dsmeta/img/IMG.png)](https://youtu.be/SNNFoViHXxQ)
+![painel](../dsmeta/img/animation.gif)
 
 ## 🧑‍💻 Deploy 👩‍💻 
 
